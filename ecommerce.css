@@ -1,0 +1,146 @@
+.hello
+{
+	width: 100%;
+	margin-top: 10%;
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+}
+.hello h2
+{
+	background: #0062cc;
+	color: #fff;
+	width: 200px;
+	font-size: 24px;
+	padding: 5px;
+	height: 40px;
+    
+}
+.hello h2::after
+{
+	content: '';
+	border-top: 40px solid #0062cc;
+: 40px solid transparent;
+	position: relative;
+	left: 48px;
+	top: 34px;
+	text-align: center;
+}
+.shop
+{
+	margin-top: 30px;
+}
+.me .fa
+{
+	color: purple;
+	font-size: 14px;
+}
+.me h3
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+.me h5
+{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.item
+{
+	opacity: 1;
+	margin-left: 0px;
+	opacity: 0;
+	display: block;
+}
+.rehan:hover .item
+{
+opacity: 1;
+transition: 0.8s;
+}
+.item .fa
+{
+	cursor: pointer;
+	background-color: #fff;
+	color: #000;
+	height: 35px;
+	width: 35px;
+	font-size: 20px;
+	padding: 7px;
+	margin: 5%;
+    margin-bottom: 2px;
+}
+.hello
+{
+	background-color: pink;
+}
+.all
+{
+
+}
+body {
+  background-color: #8ebf42;
+}
+
+form {
+  width: 400px;
+  margin: auto;
+  margin-top: 250px;
+}
+
+input {
+  padding: 4px 10px;
+  border: 0;
+  font-size: 16px;
+}
+
+.search {
+  width: 75%;
+}
+
+.submit {
+  width: 70px;
+  background-color: #1c87c9;
+  color: #ffffff;
+}
+.hello > a{
+		color: red;
+		text-decoration: none;
+		padding: 10px;
+}
+.item
+{
+	color: red;
+}
+.page
+{
+	color: #5822F3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
